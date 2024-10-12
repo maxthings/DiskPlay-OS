@@ -65,7 +65,7 @@ For developers looking to contribute or modify the OS:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/discplay-os.git
+    git clone https://github.com/maxthings/discplay-os.git
     ```
 
 2. **Build the ISO**:
